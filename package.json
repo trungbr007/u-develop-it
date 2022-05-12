@@ -23,5 +23,6 @@
   },
   "devDependencies": {
     "jest": "^28.0.3"
-  }
+  },
+  "keywords": []
 }
